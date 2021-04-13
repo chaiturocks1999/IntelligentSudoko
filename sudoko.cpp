@@ -98,9 +98,9 @@ signed main(){
 	};
 	bool f = solve();
 	if(f==0){
-		cout <<"\n YOU WON !!!!\n";
+		cout <<"\n User won !!!!\n";
 	}else{
-		cout<<"\n COMPUTER WON !!!! \n";
+		cout<<"\n Computer won !!!! \n";
 	}
 	printBoard();
 
